@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1618116048 source:d:\kirupa\sem 4\os lab\os_pack_2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<semaphore.h>
+	<unistd.h>
+	"transaction.h"
+
+1618116700 d:\kirupa\sem 4\os lab\os_pack_2\transaction.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<semaphore.h>
+	<iomanip>
+
